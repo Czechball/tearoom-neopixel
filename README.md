@@ -10,7 +10,7 @@ Some Arduino scripts to control 300 LEDs on a strip
 
 ## Usage
 
-In each .ino file, you'll find two variables: `PIN` and `N_LEDS`. PIN defines the data pin that controls the LEDs and N_LEDS it the number of LEDs on your strip.
+In each .ino file, you'll find two variables: `PIN` and `N_LEDS`. PIN defines the data pin that controls the LEDs and N_LEDS is the number of LEDs on your strip.
 
 ## TODO
 
