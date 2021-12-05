@@ -15,3 +15,7 @@ In each .ino file, you'll find two variables: `PIN` and `N_LEDS`. PIN defines th
 ## TODO
 
 Simulated animations of each project
+
+## Credits
+
+All C++ code in this repo was written by [@Cvolton](https://github.com/Cvolton)
